@@ -96,7 +96,8 @@ namespace Assets.Analytics.EventsStorage
 
             return eventsDictionary;
         }
-
+        
+        //TODO Optimization necessary
         private void SaveEvents()
         {
             if (_events == null)
