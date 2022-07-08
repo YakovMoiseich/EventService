@@ -2,12 +2,10 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using Assets.Analytics.EventsStorage;
 using Assets.Analytics.TimeProvider;
 using UnityEngine;
 using UnityEngine.Networking;
-using Random = System.Random;
 
 namespace Assets.Analytics
 {
